@@ -9,7 +9,7 @@ I'm a **Software Developer & Tech Creator** dedicated to building software that 
 
 * **Smart Tracking:** Monitor investments with an intuitive, modern UI.
 * **Built with:** Kotlin, Jetpack Compose, and Firebase.
-* **Download:** [**C Wealth on Google Play**](https://play.google.com/store/apps/details?id=com.app.wealth) 🚀
+* **Download:** [**C Wealth on Google Play**](https://play.google.com/store/apps/details?id=com.ai.cwealth&hl=en-IN) 🚀
 
 ---
 
