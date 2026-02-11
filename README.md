@@ -5,7 +5,7 @@ I'm a **Software Developer & Tech Creator** dedicated to building software that 
 ---
 
 ### 🏦 Featured Project: C Wealth
-**C Wealth** is my flagship fintech application designed to empower users with smart wealth management and real estate portfolio tracking.
+**C Wealth** is my flagship fintech application designed to empower users with smart wealth management.
 
 * **Smart Tracking:** Monitor investments with an intuitive, modern UI.
 * **Built with:** Kotlin, Jetpack Compose, and Firebase.
