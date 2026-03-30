@@ -31,7 +31,7 @@ Here are all my published Android applications — built with **Clean Architectu
 | **Mobile** | Android • Kotlin • Jetpack Compose • MVVM • Clean Architecture • Room • WorkManager |
 | **Artificial Intelligence** | Local LLM • On-device inference • Prompt Engineering • Browser-based AI |
 | **Hardware / IoT** | ESP32 • Sensor integration • 3D Printing |
-| **Productivity** | Timeboxing systems • Offline-first architectures |
+
 
 ---
 
