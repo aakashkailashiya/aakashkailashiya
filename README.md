@@ -1,7 +1,7 @@
 # Akash Kailashiya
 
 **Android Product Engineer**  
-*Shipping privacy-first Android systems & on-device AI — 12 products on Play Store, 30K+ developers on YouTube.*
+*Shipping privacy-first Android systems & on-device AI — 12 products on Play Store, 30K+ Subs on YouTube.*
 
 [Website](https://akashkailashiya.in/) • [Google Play Store](https://play.google.com/store/apps/developer?id=Akash+Kailashiya) • [YouTube](https://www.youtube.com/@AkashKailashiya) • [LinkedIn](https://in.linkedin.com/in/aakash-kailashiya-28b30118b)
 
