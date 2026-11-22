@@ -13,7 +13,11 @@ Here are all my published Android applications — built with **Clean Architectu
 |-----|----------|------------|----------|
 | **CWealth** | Personal Finance | 100% local encrypted tracking. Zero cloud. | [Install →](https://play.google.com/store/apps/details?id=com.ai.cwealth) |
 | **OrbitAI** | AI Assistant | Offline-first intelligent workflows & local LLM logic | [Install →](https://play.google.com/store/apps/details?id=com.ak.orbitai) |
-| **PictoPDF** | Productivity | Batch image-to-PDF converter (offline) | [Install →](https://play.google.com/store/apps/details?id=com.ai.pictopdf) |
+| **JARVIS AI** | AI Assistant | Intelligent voice AI assistant with camera vision, smart app control, reminders and document management | [Install →](https://play.google.com/store/apps/details?id=com.jarvisai.ak) |
+| **AiKey** | Productivity | Smart keyboard with voice typing, writing tools, translation and Hindi transliteration | [Install →](https://play.google.com/store/apps/details?id=com.ak.aikey) |
+| **GymFoodIQ** | Health & Fitness | Nutrition tracker, macro calculator, protein budget optimizer and gym workout logger | [Install →](https://play.google.com/store/apps/details?id=com.gymfoodiq.ai) |
+| **Time** | Productivity | Life clock and daily time tracker to visualize time, build awareness and manage daily priorities | [Install →](https://play.google.com/store/apps/details?id=com.ai.time0) |
+
 | **Bulk Curve** | Photo Editing | Professional bulk tone curve & color grading | [Install →](https://play.google.com/store/apps/details?id=com.ai.bulkcurve) |
 | **Heal OS** | System Utility | Kernel-level privacy hardening for Android | [Visit →](https://healos-0.web.app/) (Custom ROM / Tools) |
 
